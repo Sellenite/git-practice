@@ -1,4 +1,4 @@
 first init
 current branch is sit, commit 1
-something add on sit, commit 2
+something add on sit
 row 3
